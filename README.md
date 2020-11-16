@@ -1,47 +1,15 @@
-# Leonardo Di Vittorio 
+# Hi! I'm Leonardo Di Vittorio.
 
-*Creative Developer in ❤️ with UX/UI*
+I'm a Creative Frontend developer master in CSS, with a strong background in Graphic Design, who turned more than 300 junior developers into great programmers. Nice to meet you!
 
-I love starting projects from scratch, often described as *"highly creative"* by my co-workers. This means I can quickly turn ideas and designs into functioning code on both front and backend. 
+I consider myself a framework-agnostic. I had the chance to work with many different Frontend frameworks like React, Angular, and Svelte often using TypeScript. I tend to investigate best practices and good patterns from each framework and see how they can be re-used in others to improve usability and maintainability. I'm particularly fond of React though!
+I'm also very familiar with backend technologies like RESTfull or GraphQL servers or the different families of DataBases like SQL or its counterparts Mongo and Redis. 
 
-I perform well in agile teams, trying to learn the most from my team members, so to grow faster.
+My expertise with the JavaScript ecosystem led me to teach Advanced Frontend development techniques to 300+ developers. 
+Teaching is what taught me the most. I had to figure out students' needs and always show up prepared. You need confidence and immagination to run a classroom of 40 students as well as empathy an patience to provide useful feedback. It takes passion to be a teacher!
 
-Enthusiast about product and interior design, photography, editorial design, and everything that has a nice aesthetic.
+I'm very confident with testing my code, mostly choosing a TDD approach, which greatly increases my development speed as I don't need to do it manually every time I modify some code. I try to leave every bit of code I touch more readable, modular, performant, and accessible than I found it.
 
-**Technologies:** React (16.8), React Native, Redux, Angular 2+, Svelte, GreenSock, GraphQL, Express, Koa, Docker, Git, SQL, MongoDB, Redis, Webpack, Mocha, Jest, Cypress
+I'm passionate about continuously improving my knowledge, I'm a fast learner who can find creative solutions to technical challenges. As I had to follow juniors in their projects I often functioned as the Team Leader giving directions and managing their skills to bring out the best in each of them.
 
-**Computer Languages:**  JavaScript 🔮, TypeScript 🚧, CSS 🎨, SASS 👓 , HTML 🛠
-
-**Spoken Languages:** 🇮🇹 Lo parlo come un italiano,  🇬🇧 I speak fluently,  🇪🇸 Bastante bien
-
-## Experiences & Projects
-
-- #### Gallereact - Open Source (May 2019)
-
-  Complete and ready to use gallery slider, with lot of possible customizations.
-
-  **Techstack:** React 16.8, Styled-Components
-
-  https://gallereact.netlify.app/
-
-- #### Codeworks - Lead Instructor (March 2018 - Today)
-
-  Lead Instructor at [Codeworks](https://codeworks.me) JS bootcamp, leading course in Europe. 
-
-  - Give lectures about JavaScript fundamentals, Data Science and Full Stack apps. 
-  - Developement of internal tools to automate the bootcamp processes. 
-
-## Education
-
-- **Interaction Designer**  - Istituto Europeo del Design, Milano - 2014/2017
-
-* **Software Engineering**  - Codeworks JavaScript Bootcamp, Barcelona - 2017/2018
-
-## Others
-
-* **Articles ** - Published a few of tech articles on Medium blog. - August 2020
-* **Photography ** - Street Photography course at PhotoManhattan in New York. - August 2016
-* **WebSummit ** - Volunteer staff at WebSummit conference in Dublin. - November 2015
-* **Entertainer**  - Entertainer in a tourist village with ArtSwiss Djerba. - Summer 2015
-
- `📬leonardo.divittorio@live.it|📱+393334264554 |💻www.leonardodivittorio.com`
+ ` 📬 leonardo.divittorio@live.it | 📱 +393334264554 | 💻 www.leonardodivittorio.com `
